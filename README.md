@@ -1,42 +1,95 @@
 <h1 align="center">Bruno Matos 🚀</h1>
 
 <p align="center">
-Developer • SaaS Builder • Automations
+SaaS Developer • Automations • Backend Engineer
+</p>
+
+<p align="center">
+Construindo sistemas, automações e plataformas SaaS usando Python, APIs e infraestrutura moderna.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Desenvolvedor focado em criar **sistemas SaaS, automações e integrações entre plataformas**.
+Sou desenvolvedor focado em **criar produtos e sistemas reais**, principalmente SaaS e automações.
 
-Trabalho principalmente com:
+Trabalho com:
 
-- Python
-- APIs
-- React
+- Desenvolvimento **backend em Python**
+- Sistemas **SaaS escaláveis**
+- **Integrações entre plataformas**
 - Automação de processos
-- Integrações entre sistemas
+- Infraestrutura e arquitetura de APIs
+
+Gosto de transformar **ideias em sistemas funcionando em produção**.
 
 ---
 
-## 🧠 Projetos
+## 🚀 Projetos
 
 ### 🧾 BaianoFeet
-SaaS para gestão de lojas com:
+SaaS para lojas que precisam de um **PDV completo e gestão de produtos**.
 
-- PDV
+Funcionalidades:
+
+- PDV rápido
+- Cadastro de produtos
 - Controle de estoque
-- Gestão de produtos
 - Relatórios financeiros
+- Multiusuário
+- SaaS multi-tenant
+
+Stack:
+
+- Python
+- React
+- PostgreSQL
+- Docker
+
+---
+
+### 🛠 Sistemas que já desenvolvi
+
+- PDV para lojas
+- Sistema de ordens de serviço
+- Bots para Discord
+- Integrações com Slack
+- Automação com n8n
+- Sistemas conectados ao Google Sheets
+- Integração com APIs externas
+- Sistemas com banco MySQL/PostgreSQL
 
 ---
 
 ## ⚙️ Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,postgres,docker,redis,linux,git" />
-</p>
+### Backend
+- Python
+- FastAPI
+- Django
+- REST APIs
+- Webhooks
+
+### Frontend
+- React
+- HTML
+- CSS
+- JavaScript
+
+### Infraestrutura
+- Docker
+- PostgreSQL
+- MySQL
+- Redis
+- Nginx
+
+### Integrações
+- Slack
+- Discord
+- Google Sheets
+- ClickUp
+- n8n
 
 ---
 
@@ -46,12 +99,39 @@ SaaS para gestão de lojas com:
 
 ---
 
-## 💻 Linguagens
+## 🔥 Commit Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kina25&theme=tokyonight)
+
+---
+
+## 💻 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kina25&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 Streak
+## 🐍 Snake eating my commits
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kina25&theme=tokyonight)
+![snake gif](https://github.com/Kina25/Kina25/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧰 O que estou construindo atualmente
+
+- Plataforma SaaS para gestão de lojas
+- Sistemas de automação empresarial
+- APIs escaláveis em Python
+- Ferramentas para integração entre serviços
+
+---
+
+## 🎯 Objetivo
+
+Construir **produtos SaaS robustos**, resolver problemas reais de empresas e criar sistemas que **automatizem processos e economizem tempo**.
+
+---
+
+## 📫 Contato
+
+GitHub: https://github.com/Kina25
