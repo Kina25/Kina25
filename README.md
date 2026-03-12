@@ -111,12 +111,6 @@ Stack:
 
 ---
 
-## 🐍 Snake eating my commits
-
-![snake gif](https://github.com/Kina25/Kina25/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🧰 O que estou construindo atualmente
 
 - Plataforma SaaS para gestão de lojas
