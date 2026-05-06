@@ -8,11 +8,17 @@
   Construindo sistemas, automações e plataformas SaaS utilizando Python, APIs e infraestrutura moderna.
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/Kina25">
+    <img src="https://img.shields.io/badge/GitHub-Kina25-111?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<hr>
 
 # 🧠 Sobre mim
 
-Sou desenvolvedor focado em criar **produtos reais**, principalmente:
+Sou desenvolvedor focado em criar produtos reais, principalmente:
 
 - Plataformas SaaS
 - Sistemas backend escaláveis
@@ -22,7 +28,7 @@ Sou desenvolvedor focado em criar **produtos reais**, principalmente:
 
 Meu foco é transformar ideias em sistemas funcionando em produção.
 
----
+<hr>
 
 # 🚀 Projetos
 
@@ -39,12 +45,14 @@ SaaS para lojas com:
 
 ### Stack
 
-- Python
-- React
-- PostgreSQL
-- Docker
+<p>
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker">
+</p>
 
----
+<hr>
 
 # 🛠️ Sistemas que já desenvolvi
 
@@ -57,76 +65,73 @@ SaaS para lojas com:
 - Integrações com APIs externas
 - Sistemas com MySQL e PostgreSQL
 
----
+<hr>
 
 # ⚙️ Tecnologias
 
 ## Backend
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
-
----
+<p>
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django">
+  <img src="https://img.shields.io/badge/REST_API-111?style=for-the-badge&logo=fastapi">
+</p>
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
-
----
+<p>
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3">
+</p>
 
 ## Infraestrutura
 
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
-![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx)
-
----
+<p>
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis">
+  <img src="https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx">
+</p>
 
 ## Integrações
 
-![Slack](https://img.shields.io/badge/Slack-111?style=for-the-badge&logo=slack)
-![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-111?style=for-the-badge&logo=googlesheets)
-![ClickUp](https://img.shields.io/badge/ClickUp-111?style=for-the-badge&logo=clickup)
+<p>
+  <img src="https://img.shields.io/badge/Slack-111?style=for-the-badge&logo=slack">
+  <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord">
+  <img src="https://img.shields.io/badge/Google_Sheets-111?style=for-the-badge&logo=googlesheets">
+  <img src="https://img.shields.io/badge/ClickUp-111?style=for-the-badge&logo=clickup">
+  <img src="https://img.shields.io/badge/n8n-111?style=for-the-badge&logo=n8n">
+</p>
 
----
+<hr>
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Kina25&show_icons=true&theme=tokyonight" 
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kina25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
----
+<hr>
 
 # 🔥 Commit Streak
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kina25&theme=tokyonight" 
-  />
+  <img src="https://streak-stats.demolab.com?user=Kina25&theme=tokyonight" />
 </p>
 
----
+<hr>
 
 # 💻 Linguagens mais usadas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kina25&layout=compact&theme=tokyonight" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kina25&layout=compact&theme=tokyonight" />
 </p>
 
----
+<hr>
 
 # 🧰 O que estou construindo atualmente
 
@@ -135,14 +140,18 @@ SaaS para lojas com:
 - APIs escaláveis em Python
 - Ferramentas de integração entre serviços
 
----
+<hr>
 
 # 🎯 Objetivo
 
 Construir produtos SaaS robustos, resolver problemas reais e criar sistemas que automatizem processos e economizem tempo.
 
----
+<hr>
 
 # 📫 Contato
 
-- GitHub: <a href="https://github.com/Kina25">github.com/Kina25</a>
+<p>
+  <a href="https://github.com/Kina25">
+    <img src="https://img.shields.io/badge/GitHub-Kina25-111?style=for-the-badge&logo=github">
+  </a>
+</p>
