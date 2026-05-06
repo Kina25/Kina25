@@ -147,7 +147,7 @@ Plataforma SaaS completa para gestão de lojas.
 
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Kina25/Kina25/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Kina25/Kina25/output/github-contribution-grid-snake-dark.svg"
     />
   </picture>
 </p>
