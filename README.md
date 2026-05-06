@@ -1,17 +1,17 @@
 <h1 align="center">Bruno Matos 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=SaaS+Developer;Backend+Engineer;Automation+Specialist;Python+%7C+FastAPI+%7C+Docker;Building+Real+Systems+in+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=SaaS+Developer;Backend+Engineer;Automation+Specialist;Python+%7C+FastAPI+%7C+Docker;Building+Real+Systems+in+Production" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Kina25">
-    <img src="https://img.shields.io/github/followers/Kina25?label=Followers&style=for-the-badge&color=111827&logo=github">
+    <img src="https://img.shields.io/github/followers/Kina25?style=for-the-badge&color=111827&logo=github&label=Followers" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=Kina25&style=for-the-badge&color=111827" />
 
-  <img src="https://img.shields.io/github/stars/Kina25?style=for-the-badge&color=111827">
+  <img src="https://img.shields.io/github/stars/Kina25?style=for-the-badge&color=111827&logo=github" />
 </p>
 
 ---
@@ -20,38 +20,51 @@
 
 ```yaml
 name: Bruno Matos
+
 focus:
   - SaaS Platforms
   - Backend Architecture
-  - Process Automation
-  - API Integrations
+  - Automation Systems
   - Infrastructure
+  - API Integrations
 
-stack:
-  backend:
-    - Python
-    - FastAPI
-    - Django
+backend:
+  - Python
+  - FastAPI
+  - Django
+  - REST APIs
+  - WebSockets
 
-  frontend:
-    - React
-    - JavaScript
+frontend:
+  - React
+  - JavaScript
+  - HTML
+  - CSS
 
-  database:
-    - PostgreSQL
-    - MySQL
-    - Redis
+database:
+  - PostgreSQL
+  - MySQL
+  - Redis
 
-  infra:
-    - Docker
-    - Nginx
-    - Linux
+infra:
+  - Docker
+  - Nginx
+  - Linux
 
 currently_building:
-  - SaaS Systems
+  - SaaS Platforms
   - Enterprise Automations
+  - Multi-Tenant Systems
   - Scalable APIs
 ```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,html,css,postgres,mysql,redis,docker,nginx,linux,git,github,vscode" />
+</p>
 
 ---
 
@@ -59,29 +72,22 @@ currently_building:
 
 ## 🧾 BaianoFeet
 
-SaaS completo para gestão de lojas.
+Plataforma SaaS completa para gestão de lojas.
 
 ### Funcionalidades
 
 - PDV completo
 - Gestão de estoque
-- Relatórios financeiros
 - Multiusuário
-- Arquitetura multi-tenant
+- Relatórios financeiros
 - Dashboard administrativo
+- Arquitetura multi-tenant
+- APIs integradas
 
 ### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,react,postgres,docker,redis" />
-</p>
-
----
-
-# ⚡ Tecnologias
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,html,css,docker,postgres,mysql,redis,nginx,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,postgres,docker,redis" />
 </p>
 
 ---
@@ -89,19 +95,19 @@ SaaS completo para gestão de lojas.
 # 🛠️ Sistemas que já desenvolvi
 
 - Sistemas PDV
-- Sistemas de ordem de serviço
+- Sistemas de ordens de serviço
+- Plataformas SaaS
 - Bots para Discord
 - Integrações com Slack
-- Sistemas integrados ao Google Sheets
-- Integrações com APIs externas
-- Sistemas multi-tenant
-- Plataformas SaaS
-- Automações com n8n
+- Integrações com Google Sheets
 - APIs corporativas
+- Sistemas multi-tenant
+- Automações com n8n
+- Integrações com plataformas externas
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kina25&theme=tokyo-night&hide_border=true&area=true" />
@@ -117,6 +123,14 @@ SaaS completo para gestão de lojas.
 
 ---
 
+# 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kina25&theme=tokyonight" />
+</p>
+
+---
+
 # 🔥 Contribution Snake
 
 <p align="center">
@@ -125,22 +139,15 @@ SaaS completo para gestão de lojas.
 
 ---
 
-# 📊 Linguagens
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,postgres,mysql,docker" />
-</p>
-
----
-
 # 🧠 Atualmente trabalhando com
 
 - APIs escaláveis
-- Sistemas SaaS
+- Arquitetura backend
+- SaaS multi-tenant
 - Dockerização
-- Infraestrutura backend
-- Integrações corporativas
-- Automações empresariais
+- Sistemas corporativos
+- Integrações empresariais
+- Automações em larga escala
 
 ---
 
@@ -148,6 +155,12 @@ SaaS completo para gestão de lojas.
 
 <p align="center">
   <a href="https://github.com/Kina25">
-    <img src="https://img.shields.io/badge/GitHub-Kina25-111827?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Kina25-111827?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
 </p>
