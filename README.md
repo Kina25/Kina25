@@ -1,46 +1,43 @@
 <h1 align="center">Bruno Matos 🚀</h1>
 
 <p align="center">
-SaaS Developer • Automations • Backend Engineer
+  <strong>SaaS Developer • Automations • Backend Engineer</strong>
 </p>
 
 <p align="center">
-Construindo sistemas, automações e plataformas SaaS usando Python, APIs e infraestrutura moderna.
+  Construindo sistemas, automações e plataformas SaaS utilizando Python, APIs e infraestrutura moderna.
 </p>
 
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
-Sou desenvolvedor focado em **criar produtos e sistemas reais**, principalmente SaaS e automações.
+Sou desenvolvedor focado em criar **produtos reais**, principalmente:
 
-Trabalho com:
-
-- Desenvolvimento **backend em Python**
-- Sistemas **SaaS escaláveis**
-- **Integrações entre plataformas**
+- Plataformas SaaS
+- Sistemas backend escaláveis
+- Integrações entre APIs
 - Automação de processos
-- Infraestrutura e arquitetura de APIs
+- Infraestrutura e arquitetura de sistemas
 
-Gosto de transformar **ideias em sistemas funcionando em produção**.
+Meu foco é transformar ideias em sistemas funcionando em produção.
 
 ---
 
-## 🚀 Projetos
+# 🚀 Projetos
 
-### 🧾 BaianoFeet
-SaaS para lojas que precisam de um **PDV completo e gestão de produtos**.
+## 🧾 BaianoFeet
 
-Funcionalidades:
+SaaS para lojas com:
 
-- PDV rápido
-- Cadastro de produtos
+- PDV completo
+- Gestão de produtos
 - Controle de estoque
 - Relatórios financeiros
 - Multiusuário
-- SaaS multi-tenant
+- Arquitetura multi-tenant
 
-Stack:
+### Stack
 
 - Python
 - React
@@ -49,83 +46,103 @@ Stack:
 
 ---
 
-### 🛠 Sistemas que já desenvolvi
+# 🛠️ Sistemas que já desenvolvi
 
-- PDV para lojas
-- Sistema de ordens de serviço
+- Sistemas PDV
+- Sistemas de ordem de serviço
 - Bots para Discord
 - Integrações com Slack
-- Automação com n8n
-- Sistemas conectados ao Google Sheets
-- Integração com APIs externas
-- Sistemas com banco MySQL/PostgreSQL
+- Automações com n8n
+- Sistemas integrados ao Google Sheets
+- Integrações com APIs externas
+- Sistemas com MySQL e PostgreSQL
 
 ---
 
-## ⚙️ Tecnologias
+# ⚙️ Tecnologias
 
-### Backend
-- Python
-- FastAPI
-- Django
-- REST APIs
-- Webhooks
+## Backend
 
-### Frontend
-- React
-- HTML
-- CSS
-- JavaScript
-
-### Infraestrutura
-- Docker
-- PostgreSQL
-- MySQL
-- Redis
-- Nginx
-
-### Integrações
-- Slack
-- Discord
-- Google Sheets
-- ClickUp
-- n8n
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
 
 ---
 
-## 📊 GitHub Stats
+## Frontend
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kina25&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Commit Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kina25&theme=tokyonight)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
 
 ---
 
-## 💻 Linguagens mais usadas
+## Infraestrutura
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kina25&layout=compact&theme=tokyonight)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx)
 
 ---
 
-## 🧰 O que estou construindo atualmente
+## Integrações
+
+![Slack](https://img.shields.io/badge/Slack-111?style=for-the-badge&logo=slack)
+![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-111?style=for-the-badge&logo=googlesheets)
+![ClickUp](https://img.shields.io/badge/ClickUp-111?style=for-the-badge&logo=clickup)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Kina25&show_icons=true&theme=tokyonight" 
+  />
+</p>
+
+---
+
+# 🔥 Commit Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kina25&theme=tokyonight" 
+  />
+</p>
+
+---
+
+# 💻 Linguagens mais usadas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kina25&layout=compact&theme=tokyonight" 
+  />
+</p>
+
+---
+
+# 🧰 O que estou construindo atualmente
 
 - Plataforma SaaS para gestão de lojas
 - Sistemas de automação empresarial
 - APIs escaláveis em Python
-- Ferramentas para integração entre serviços
+- Ferramentas de integração entre serviços
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Construir **produtos SaaS robustos**, resolver problemas reais de empresas e criar sistemas que **automatizem processos e economizem tempo**.
+Construir produtos SaaS robustos, resolver problemas reais e criar sistemas que automatizem processos e economizem tempo.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-GitHub: https://github.com/Kina25
+- GitHub: <a href="https://github.com/Kina25">github.com/Kina25</a>
