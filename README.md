@@ -18,45 +18,27 @@
 
 # 💻 Sobre mim
 
-```yaml
-name: Bruno Matos
+# 💻 Sobre mim
 
-focus:
-  - SaaS Platforms
-  - Backend Architecture
-  - Automation Systems
-  - Infrastructure
-  - API Integrations
+<p>
+Desenvolvedor focado em <strong>SaaS, automações e arquitetura backend</strong>.
 
-backend:
-  - Python
-  - FastAPI
-  - Django
-  - REST APIs
-  - WebSockets
+Especializado em construir:
+</p>
 
-frontend:
-  - React
-  - JavaScript
-  - HTML
-  - CSS
+<ul>
+  <li>⚡ APIs escaláveis</li>
+  <li>🚀 Plataformas SaaS</li>
+  <li>🔄 Integrações entre sistemas</li>
+  <li>🐳 Infraestrutura com Docker</li>
+  <li>🤖 Automações empresariais</li>
+</ul>
 
-database:
-  - PostgreSQL
-  - MySQL
-  - Redis
+<br>
 
-infra:
-  - Docker
-  - Nginx
-  - Linux
-
-currently_building:
-  - SaaS Platforms
-  - Enterprise Automations
-  - Multi-Tenant Systems
-  - Scalable APIs
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,postgres,mysql,redis,docker,nginx,linux,git,github,vscode" />
+</p>
 
 ---
 
