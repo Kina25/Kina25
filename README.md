@@ -18,8 +18,6 @@
 
 # 💻 Sobre mim
 
-# 💻 Sobre mim
-
 <p>
 Desenvolvedor focado em <strong>SaaS, automações e arquitetura backend</strong>.
 
