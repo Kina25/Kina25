@@ -120,7 +120,7 @@ SaaS completo para gestão de lojas.
 # 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kina25/Kina25/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kina25/Kina25/output/snake.svg" />
 </p>
 
 ---
