@@ -1,111 +1,49 @@
-<!-- ====== BANNER ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Bruno%20Matos&fontColor=ffffff&fontSize=48&desc=Backend%20%26%20SaaS%20Developer&descSize=18&descAlignY=62" />
-</p>
+# Bruno Matos
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=SaaS+Developer;Backend+Engineer;Automation+Specialist;Python+%7C+FastAPI+%7C+Docker" />
-</p>
+**Backend & SaaS Developer** — Python · FastAPI · Docker
 
-<p align="center">
-  <a href="https://github.com/Kina25"><img src="https://img.shields.io/github/followers/Kina25?style=for-the-badge&color=2563eb&logo=github&label=Seguidores" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Kina25&style=for-the-badge&color=2563eb&label=Visitas" />
-</p>
+[![Email](https://img.shields.io/badge/Email-brunnomitto@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brunnomitto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Matos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-matos-mascarenhas-43223719a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kina25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kina25)
 
-<!-- ====== SOBRE ====== -->
-## 👨‍💻 Sobre mim
+---
 
-Desenvolvedor **backend** focado em **SaaS, automações e sistemas prontos para produção**. Construo desde APIs escaláveis até plataformas multi-tenant completas — resolvendo problemas reais de negócio, não só código.
+Desenvolvedor backend focado em **SaaS, automações e sistemas prontos para produção**. Construo do zero — de APIs escaláveis a plataformas multi-tenant completas — priorizando o que resolve problema de negócio, não só código.
 
-- 🏗️ Arquitetura backend e APIs com **FastAPI**
-- ☁️ Plataformas **SaaS multi-tenant**
-- 🐳 Infraestrutura com **Docker + Nginx**
-- 🤖 Automações empresariais com **n8n** e integrações externas
-- 💬 Fale comigo sobre backend, SaaS, automação e integrações
+**Trabalhando com:** arquitetura backend com FastAPI · plataformas SaaS multi-tenant · infraestrutura Docker/Nginx · automações e integrações com n8n.
 
-<!-- ====== STACK ====== -->
-## 🛠️ Tecnologias
+### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,nginx,linux,git,github,react,js,html,css,vscode&perline=8" />
-</p>
+**Linguagens**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<!-- ====== PROJETO DESTAQUE ====== -->
-## 🚀 Projeto em destaque
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### 🧾 BaianoFeet — Plataforma SaaS de Gestão de Lojas
+**Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-Sistema completo de gestão comercial com arquitetura **multi-tenant**, desenvolvido do zero para produção.
+**Infra & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-| Módulo | O que faz |
-|---|---|
-| 🛒 PDV | Ponto de venda completo e responsivo |
-| 📦 Estoque | Gestão e controle de inventário |
-| 👥 Multiusuário | Controle de acesso por perfil |
-| 📊 Relatórios | Dashboards financeiros e administrativos |
-| 🏢 Multi-tenant | Isolamento de dados por empresa |
-| 🔌 APIs | Integrações com plataformas externas |
+### Projetos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker,redis" />
-</p>
+**BaianoFeet** — Plataforma SaaS de gestão de lojas *(multi-tenant)*
+PDV completo, controle de estoque, multiusuário por perfil, relatórios financeiros e integrações via API. Desenvolvido do zero para produção, com isolamento de dados por empresa.
+`Python` · `FastAPI` · `React` · `PostgreSQL` · `Docker` · `Redis`
+<!-- Quando o repositório estiver público, adicione o link aqui:
+🔗 https://github.com/Kina25/NOME-DO-REPO -->
 
-<!-- 👉 Dica: quando o repositório estiver público, adicione o link aqui:
-&nbsp;&nbsp;**🔗 [Ver projeto](https://github.com/Kina25/NOME-DO-REPO)** -->
+Também já entreguei: sistemas de PDV, ordens de serviço, bots para Discord, integrações com Slack e Google Sheets, APIs corporativas e automações com n8n.
 
-<!-- ====== O QUE JÁ CONSTRUÍ ====== -->
-## 🧠 O que já construí
+### Contato
 
-<table align="center">
-  <tr>
-    <td>✅ Sistemas PDV</td>
-    <td>✅ Ordens de serviço</td>
-    <td>✅ Plataformas SaaS</td>
-  </tr>
-  <tr>
-    <td>✅ Bots para Discord</td>
-    <td>✅ Integrações com Slack</td>
-    <td>✅ Google Sheets API</td>
-  </tr>
-  <tr>
-    <td>✅ APIs corporativas</td>
-    <td>✅ Automações com n8n</td>
-    <td>✅ Sistemas multi-tenant</td>
-  </tr>
-</table>
-
-<!-- ====== STATS ====== -->
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kina25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kina25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kina25&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- ====== SNAKE ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kina25/Kina25/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!-- ====== CONTATO ====== -->
-## 🌐 Contato
-
-<p align="center">
-  <a href="mailto:brunnomitto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brunnomitto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-matos-mascarenhas-43223719a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kina25">
-    <img src="https://img.shields.io/badge/GitHub-Kina25-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
-</p>
+- **Email** — brunnomitto@gmail.com
+- **LinkedIn** — [bruno-matos-mascarenhas](https://www.linkedin.com/in/bruno-matos-mascarenhas-43223719a/)
