@@ -70,9 +70,13 @@ automacao:   n8n · integracoes (Slack, Google Sheets, APIs corporativas)
 <!-- ============ STATS ============ -->
 ## &nbsp;📈 GitHub Stats
 
+<!-- Painel gerado pela Action Metrics (SVG hospedado no repo — nunca quebra) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kina25&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kina25&theme=tokyonight" width="49%" />
+  <img src="./assets/metrics.svg" alt="GitHub Metrics" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kina25&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
 </p>
 
 <p align="center">
