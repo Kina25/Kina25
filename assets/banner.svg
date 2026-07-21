@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-label="Bruno Matos - Backend & SaaS Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="0" fill="url(#bg)"/>
+
+  <!-- ondas decorativas -->
+  <path d="M0,210 C200,170 380,250 600,215 C820,180 1000,250 1200,205 L1200,280 L0,280 Z" fill="url(#wave2)"/>
+  <path d="M0,235 C220,205 400,270 600,240 C800,210 1010,275 1200,235 L1200,280 L0,280 Z" fill="url(#wave1)"/>
+
+  <!-- pontos decorativos -->
+  <circle cx="120" cy="70" r="4" fill="#93c5fd" opacity="0.5"/>
+  <circle cx="1080" cy="90" r="5" fill="#bfdbfe" opacity="0.4"/>
+  <circle cx="1010" cy="45" r="3" fill="#93c5fd" opacity="0.5"/>
+  <circle cx="180" cy="200" r="3" fill="#dbeafe" opacity="0.4"/>
+
+  <!-- textos -->
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="1">Bruno Matos</text>
+  <text x="600" y="172" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#dbeafe" letter-spacing="3">BACKEND &amp; SAAS DEVELOPER</text>
+</svg>

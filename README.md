@@ -1,6 +1,6 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:2563eb&height=200&section=header&text=Bruno%20Matos&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%26%20SaaS%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="./assets/banner.svg" alt="Bruno Matos — Backend & SaaS Developer" width="100%" />
 </p>
 
 <!-- ============ TYPING ============ -->
@@ -96,5 +96,5 @@ automacao:   n8n · integracoes (Slack, Google Sheets, APIs corporativas)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" />
+  <img src="./assets/footer.svg" alt="" width="100%" />
 </p>
