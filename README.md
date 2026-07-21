@@ -72,7 +72,7 @@ automacao:   n8n · integracoes (Slack, Google Sheets, APIs corporativas)
 
 <!-- Painel gerado pela Action Metrics (SVG hospedado no repo — nunca quebra) -->
 <p align="center">
-  <img src="./assets/metrics.svg" alt="GitHub Metrics" width="98%" />
+  <img src="./assets/metrics.svg" alt="GitHub Metrics" width="480" />
 </p>
 
 <p align="center">
