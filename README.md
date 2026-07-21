@@ -98,7 +98,7 @@ Sistema completo de gestão comercial com arquitetura **multi-tenant**, desenvol
   <a href="mailto:brunnomitto@gmail.com">
     <img src="https://img.shields.io/badge/Email-brunnomitto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/bruno-matos-mascarenhas-43223719a/">
     <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Matos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Kina25">
