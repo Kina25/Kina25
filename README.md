@@ -79,10 +79,6 @@ automacao:   n8n · integracoes (Slack, Google Sheets, APIs corporativas)
   <img src="https://streak-stats.demolab.com/?user=Kina25&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kina25&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" width="98%" />
-</p>
-
 <!-- ============ SNAKE ============ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kina25/Kina25/output/github-contribution-grid-snake-dark.svg" width="98%" />
