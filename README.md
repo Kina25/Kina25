@@ -76,7 +76,7 @@ automacao:   n8n · integracoes (Slack, Google Sheets, APIs corporativas)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kina25&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Kina25&theme=tokyonight&hide_border=true&border_radius=8&cache_bust=20260825" width="60%" />
 </p>
 
 <!-- ============ SNAKE ============ -->
