@@ -1,6 +1,6 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Bruno Matos — Backend & SaaS Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Bruno Matos — Backend & Automation Developer" width="100%" />
 </p>
 
 <!-- ============ TYPING ============ -->
