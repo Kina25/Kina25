@@ -325,35 +325,37 @@ plataformas que não possuem integração nativa.
 
 ## 🚀 Projeto em destaque
 
-<table>
-  <tr>
-    <td>
-      <h3>Baiano Feet</h3>
+### Baiano Feet — Plataforma SaaS de Gestão Comercial
 
-      Plataforma SaaS de gestão comercial desenvolvida para centralizar
-      vendas, estoque, produtos, clientes, usuários e informações
-      financeiras de lojas.
+Plataforma desenvolvida para centralizar vendas, estoque, produtos,
+clientes, usuários e informações financeiras de lojas.
 
-      <br /><br />
+#### Principais características
 
-      <strong>Principais características:</strong>
+- Arquitetura multi-tenant;
+- Isolamento de dados por empresa;
+- PDV responsivo;
+- Gestão de produtos e estoque;
+- Controle de clientes e vendas;
+- Controle de usuários e permissões;
+- Relatórios comerciais e financeiros;
+- Integrações com serviços externos;
+- Ambiente de produção com Docker.
 
-      <ul>
-        <li>Arquitetura multi-tenant;</li>
-        <li>PDV responsivo;</li>
-        <li>Gestão de estoque;</li>
-        <li>Controle de usuários e permissões;</li>
-        <li>Relatórios comerciais e financeiros;</li>
-        <li>Integrações com serviços externos;</li>
-        <li>Ambiente de produção com Docker.</li>
-      </ul>
+#### Tecnologias utilizadas
 
-      <a href="https://baianofeet.com.br/">
-        🌐 Acessar plataforma
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+🌐 **[Acessar o Baiano Feet](https://baianofeet.com.br/)**
+
+> O código-fonte é privado por se tratar de um produto comercial.
 
 ---
 
